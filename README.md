@@ -13,7 +13,7 @@
 
    1. **Clone the Repository**:
       ```bash
-      git clone https://github.com/yourusername/haunted-house-game.git
+      git clone https://github.com/AthirK/haunted-house-game.git
       cd haunted-house-game
       ```
 
